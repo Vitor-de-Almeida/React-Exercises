@@ -82,7 +82,7 @@ ul li::before {
 }
 
 .item:first-child {
-  margin: 0;
+  margin: 2;
 }
 
 .item input[type="checkbox"] {
